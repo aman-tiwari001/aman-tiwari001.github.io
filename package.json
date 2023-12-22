@@ -1,0 +1,22 @@
+{
+  "name": "rt-twitter-login-clone",
+  "version": "1.0.0",
+  "description": "Sample Twitter (X) login page clone using Tailwind CSS and HTML",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Twitter",
+    "clone",
+    "tailwind",
+    "csss",
+    "html",
+    "x"
+  ],
+  "author": "Aman Tiwari",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.0"
+  }
+}
