@@ -826,3 +826,13 @@ video {
     width: 90%;
   }
 }
+
+@media (min-width: 1024px) {
+  .lg\:w-\[55\%\] {
+    width: 55%;
+  }
+
+  .lg\:w-\[44\%\] {
+    width: 44%;
+  }
+}
